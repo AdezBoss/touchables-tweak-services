@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1",
-  "file": "TouchablesTweakServices.exe",
-  "sha256": "4b4f05ea8b4a6450d8a5b1c727c3cb62e11d1b2de66d37c9dd7c05054ccc7dc5",
-  "size": 267776,
-  "notes_tr": "• Güncelleme sistemi testi\n• Ayarlar sayfasında sürüm bilgisi",
-  "notes_en": "• Update system test\n• Version info on the Settings page"
+  "version": "4.3.2",
+  "file": "releases/TouchablesTweakServices-4.3.2.exe",
+  "sha256": "f0a5b37b65e38788cb25030219e52c4cf0158dcfced20c5657eee32e0a40b8d6",
+  "size": 268288,
+  "notes_tr": "• Güncellemeler artık anında görünür (önbellek gecikmesi giderildi)\n• Her sürüm kendi dosyasıyla saklanır",
+  "notes_en": "• Updates now show up instantly (cache delay fixed)\n• Each version is stored as its own file"
 }
