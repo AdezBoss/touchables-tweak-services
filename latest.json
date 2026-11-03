@@ -1,8 +1,8 @@
 {
-  "version": "4.3.2",
-  "file": "releases/TouchablesTweakServices-4.3.2.exe",
-  "sha256": "f0a5b37b65e38788cb25030219e52c4cf0158dcfced20c5657eee32e0a40b8d6",
-  "size": 268288,
-  "notes_tr": "• Güncellemeler artık anında görünür (önbellek gecikmesi giderildi)\n• Her sürüm kendi dosyasıyla saklanır",
-  "notes_en": "• Updates now show up instantly (cache delay fixed)\n• Each version is stored as its own file"
+  "version": "4.4.0",
+  "file": "releases/TouchablesTweakServices-4.4.0.exe",
+  "sha256": "2391f7b0e3ac921a08e88722005b770009c2b6611064b59d5f8e964d6ed871f5",
+  "size": 288256,
+  "notes_tr": "• Yeni RAM sekmesi: elle temizleme ve 5-30 dakikalık otomatik temizleme\n• Görev çubuğunda artık PowerShell değil uygulamanın kendi simgesi görünür\n• Uygulama görev çubuğundan (sağ tık > Pencereyi kapat) kapatılabilir",
+  "notes_en": "• New RAM tab: manual cleaning and automatic cleaning every 5-30 minutes\n• The taskbar now shows the app's own icon instead of PowerShell\n• The app can be closed from the taskbar (right-click > Close window)"
 }
