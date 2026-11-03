@@ -1,8 +1,8 @@
 {
-  "version": "4.4.0",
-  "file": "releases/TouchablesTweakServices-4.4.0.exe",
-  "sha256": "2391f7b0e3ac921a08e88722005b770009c2b6611064b59d5f8e964d6ed871f5",
-  "size": 288256,
-  "notes_tr": "• Yeni RAM sekmesi: elle temizleme ve 5-30 dakikalık otomatik temizleme\n• Görev çubuğunda artık PowerShell değil uygulamanın kendi simgesi görünür\n• Uygulama görev çubuğundan (sağ tık > Pencereyi kapat) kapatılabilir",
-  "notes_en": "• New RAM tab: manual cleaning and automatic cleaning every 5-30 minutes\n• The taskbar now shows the app's own icon instead of PowerShell\n• The app can be closed from the taskbar (right-click > Close window)"
+  "version": "4.5.0",
+  "file": "releases/TouchablesTweakServices-4.5.0.exe",
+  "sha256": "253e010ea0d64fd09ee209b4bb0de06ab4f35aa36b056d2236a5f93279d458e5",
+  "size": 317440,
+  "notes_tr": "• Yeni Klavye ve Mouse sekmesi: klavye gecikmesi, fare ivmesi, erişilebilirlik tuşları, USB güç tasarrufu, sistem zamanlayıcısı\n• Yeni Advanced Tweaks sekmesi: Edge, OneDrive ve Microsoft Store kaldırma; önyükleme ve sanallaştırma ayarları\n• Görev çubuğunda sağ tık > Görevi sonlandır seçeneği",
+  "notes_en": "• New Keyboard and Mouse tab: keyboard delay, mouse acceleration, accessibility keys, USB power saving, system timer\n• New Advanced Tweaks tab: remove Edge, OneDrive and Microsoft Store; boot and virtualization settings\n• Right-click > End task option on the taskbar"
 }
