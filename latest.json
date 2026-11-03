@@ -1,8 +1,8 @@
 {
-  "version": "4.3.0",
+  "version": "4.3.1",
   "file": "TouchablesTweakServices.exe",
-  "sha256": "1a9b973a07d3c539d9fd7b278560234479e6286f85e14d92d287883e7a27b6ff",
+  "sha256": "4b4f05ea8b4a6450d8a5b1c727c3cb62e11d1b2de66d37c9dd7c05054ccc7dc5",
   "size": 267776,
-  "notes_tr": "• Uygulama içinden otomatik güncelleme\n• Performans skoru düzeltmeleri",
-  "notes_en": "• Automatic in-app updates\n• Performance score fixes"
+  "notes_tr": "• Güncelleme sistemi testi\n• Ayarlar sayfasında sürüm bilgisi",
+  "notes_en": "• Update system test\n• Version info on the Settings page"
 }
