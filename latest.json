@@ -1,8 +1,8 @@
 {
-  "version": "4.6.1",
-  "file": "releases/TouchablesTweakServices-4.6.1.exe",
-  "sha256": "5460bd7df49fc0a1ab51e42d7a28e4b64bb2d2bb744fe9e57942313d7208dcac",
-  "size": 354816,
-  "notes_tr": "• Uygulama artık tek kopya açılır: zaten açıksa ikinci tıklama açık pencereyi öne getirir\n• Tıklayınca hemen logolu 'Açılıyor...' ekranı çıkar\n• Pencere açılınca diğer pencerelerin arkasında kalmaz",
-  "notes_en": "• The app now runs as a single instance: clicking again brings the open window to the front\n• A 'Starting...' splash with the logo appears right after clicking\n• The window no longer opens behind other windows"
+  "version": "4.6.2",
+  "file": "releases/TouchablesTweakServices-4.6.2.exe",
+  "sha256": "fb6275bc167968fb129ddb8711c51c877f3a60e1d5cfd27043b9f755441ca4e8",
+  "size": 356352,
+  "notes_tr": "• FiveM: ReShade artık ayrı tür olarak tanınır ve PvP/RP modları ile toplu butonlar tarafından asla kapatılmaz\n• ENB dosyaları birlikte taşınır, yarım kalmaz",
+  "notes_en": "• FiveM: ReShade is now its own type and is never turned off by the PvP/RP modes or bulk buttons\n• ENB files are moved together so it is never left half-installed"
 }
