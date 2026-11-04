@@ -1,8 +1,8 @@
 {
-  "version": "4.5.0",
-  "file": "releases/TouchablesTweakServices-4.5.0.exe",
-  "sha256": "253e010ea0d64fd09ee209b4bb0de06ab4f35aa36b056d2236a5f93279d458e5",
-  "size": 317440,
-  "notes_tr": "• Yeni Klavye ve Mouse sekmesi: klavye gecikmesi, fare ivmesi, erişilebilirlik tuşları, USB güç tasarrufu, sistem zamanlayıcısı\n• Yeni Advanced Tweaks sekmesi: Edge, OneDrive ve Microsoft Store kaldırma; önyükleme ve sanallaştırma ayarları\n• Görev çubuğunda sağ tık > Görevi sonlandır seçeneği",
-  "notes_en": "• New Keyboard and Mouse tab: keyboard delay, mouse acceleration, accessibility keys, USB power saving, system timer\n• New Advanced Tweaks tab: remove Edge, OneDrive and Microsoft Store; boot and virtualization settings\n• Right-click > End task option on the taskbar"
+  "version": "4.5.1",
+  "file": "releases/TouchablesTweakServices-4.5.1.exe",
+  "sha256": "6e7efbe00b7b3b277caba2debd3707116b1001dc27ed5d46232c893b6955bb80",
+  "size": 317952,
+  "notes_tr": "• Onarım kaydı düzenlendi: DISM/SFC ilerleme çubuğu artık tek satırda güncelleniyor",
+  "notes_en": "• Repair log tidied: the DISM/SFC progress bar now updates on a single line"
 }
