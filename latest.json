@@ -1,8 +1,8 @@
 {
-  "version": "4.6.0",
-  "file": "releases/TouchablesTweakServices-4.6.0.exe",
-  "sha256": "4aed8bb89c558544934c7f7fed97f0ff2cf1afcf3733035640882ea4bad4d0f8",
-  "size": 349696,
-  "notes_tr": "• Yeni FiveM sekmesi: tek tıkla PvP (maksimum FPS) ve Sosyal RP (bilgisayarına göre en iyi görüntü) modları\n• Grafik ve PvP paketlerini listeleme, tek tek ya da toplu açma/kapatma (silinmez, yedeklenir)\n• FiveM için yüksek CPU önceliği, tam ekran ve ekran kartı ayarları\n• Orijinal ayarlara tek tıkla dönüş",
-  "notes_en": "• New FiveM tab: one-click PvP (max FPS) and Social RP (best visuals for your PC) modes\n• List graphics and PvP packs, turn them on/off individually or in bulk (moved, not deleted)\n• High CPU priority, fullscreen and GPU settings for FiveM\n• One-click return to original settings"
+  "version": "4.6.1",
+  "file": "releases/TouchablesTweakServices-4.6.1.exe",
+  "sha256": "5460bd7df49fc0a1ab51e42d7a28e4b64bb2d2bb744fe9e57942313d7208dcac",
+  "size": 354816,
+  "notes_tr": "• Uygulama artık tek kopya açılır: zaten açıksa ikinci tıklama açık pencereyi öne getirir\n• Tıklayınca hemen logolu 'Açılıyor...' ekranı çıkar\n• Pencere açılınca diğer pencerelerin arkasında kalmaz",
+  "notes_en": "• The app now runs as a single instance: clicking again brings the open window to the front\n• A 'Starting...' splash with the logo appears right after clicking\n• The window no longer opens behind other windows"
 }
